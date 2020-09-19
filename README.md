@@ -12,8 +12,6 @@ web2xlsx.js
     <img alt="Language: Javascript" src="https://img.shields.io/badge/language-javascript%20-blue.svg">
 </p>
 
-##
-
 ## Table Of Contents
 1. [Introduction](#versions)
 2. [Features](#features)
